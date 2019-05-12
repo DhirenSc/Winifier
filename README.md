@@ -11,7 +11,7 @@ A text classifier for wine reviews crawled from http://winemag.com.
 
 ### Steps to run:
   ```
-  git clone https://github.com/nirbhayph/Winifier.git
+  git clone https://github.com/dhirensc/Winifier.git
   cd Winifier
   pip3 install -r requirements.txt
   ```
@@ -67,7 +67,7 @@ A text classifier for wine reviews crawled from http://winemag.com.
   python3 Winifier.py "test" "__data__/trainingV2.txt" 1110 "__model__/generated/multinomial__percentage_split__90.json"
   ```
 
-  Link to repository: https://github.com/nirbhayph/Winifier.git
+  Link to repository: https://github.com/dhirensc/Winifier.git
   You can visit this link to see updated ReadMe file if you wish to.
   
   @Authors (Team #5)
